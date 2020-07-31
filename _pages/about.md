@@ -12,7 +12,9 @@ redirect_from:
 # About Me
 
 I'm Heng-Jui Chang (張恆瑞), I am currently an undergraduate student majored in Electrical Engineering (EE) at National Taiwan University (NTU).
-I am an undergraduate researcher at the [Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) in the area of machine learning and speech processing.
+I am an undergraduate researcher at the [Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
+My research interest is in the area of machine learning and speech processing, especially end-to-end automatic speech recognition (E2E ASR).
+I am currently working on whispered speech recognition and lifelong learning of E2E ASR systems.
 
 <!--- a Ph.D. student in Computer Science at MIT advised by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
 Currently, my research interest focus on  
@@ -45,7 +47,7 @@ Before joining MIT,-->
 
 # Honors
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Academic Excellence Awards x 4</span> <span style="flex:  0 0 auto"><i>NTU EE 2018/2019/2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Academic Excellence Awards x 4</span> <span style="flex:  0 0 auto"><i>NTU EE, 2018/2019/2020</i></span></p>
 
 
 # Projects
