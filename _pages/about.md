@@ -29,7 +29,7 @@ Before joining MIT,-->
 
 - **End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Layer-wise Transfer Learning**<br/>
     <u>Heng-Jui Chang</u>, Alexander H. Liu, Hung-yi Lee, Lin-shan Lee<br/>
-    *preprint*
+    *arXiv preprint*
     [ [pdf](https://arxiv.org/abs/2005.01972) ]
 
 
