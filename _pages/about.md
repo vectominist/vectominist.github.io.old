@@ -27,6 +27,10 @@ Before joining MIT,-->
 
 # Publications
 
+- **Towards Lifelong Learning of End-to-end ASR**<br/>
+    <u>Heng-Jui Chang</u>, Hung-yi Lee, Lin-shan Lee<br/>
+    *under review*
+
 - **End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Layer-wise Transfer Learning**<br/>
     <u>Heng-Jui Chang</u>, Alexander H. Liu, Hung-yi Lee, Lin-shan Lee<br/>
     *arXiv preprint*
