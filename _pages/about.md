@@ -65,6 +65,4 @@ Before joining MIT,-->
 
 # Extracurricular Activities
 
-- NTU Ballon Design Club [ [page](https://www.facebook.com/NTUBalloon) | [photo](https://drive.google.com/file/d/1_aVE0Rn8XUOtAzaIMICXtDX5Z4G2c1ml/view?usp=sharing) ]
-
-
+- NTU Ballon Design Club [ [page](https://www.facebook.com/NTUBalloon) ]
