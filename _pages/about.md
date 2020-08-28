@@ -11,10 +11,11 @@ redirect_from:
 
 # About Me
 
-I'm Heng-Jui Chang (張恆瑞), an undergraduate student majored in Electrical Engineering (EE) at National Taiwan University (NTU).
-I am an undergraduate researcher at the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
+Hi! I'm Heng-Jui Chang (張恆瑞), an undergraduate researcher majored in Electrical Engineering (EE) at National Taiwan University (NTU).
+I am a member at the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
 My research interest is in the area of machine learning and speech processing.
 I am currently working on whispered speech recognition and lifelong learning of end-to-end automatic speech recognition (E2E ASR).
+Besides research, I have recieved 4 Dean's List Awards and ranked 5/261 (top 2%) of the class.
 
 <!--- a Ph.D. student in Computer Science at MIT advised by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
 Currently, my research interest focus on  
@@ -59,7 +60,9 @@ Before joining MIT,-->
 # Projects
 
 - Open Sourced End-to-end Speech Recognition [ [code](https://github.com/vectominist/End-to-end-ASR-Pytorch) ]
-- Are We Attracted to People Who Look Like Us? A psychological experiment using face image morphing. [ [code](https://github.com/vectominist/Face-Image-Morphing) ]
+- Routing with Cell Movement [ [code](https://github.com/w4n9r3ntru3/prime) ]
+- Are We Attracted to People Who Look Like Us? (image morphing) [ [code](https://github.com/vectominist/Face-Image-Morphing) ]
+- Deep Learning-Based Image Geometric Rectification [ [demo](https://github.com/vectominist/GeoRect-Demo/blob/master/Demo_GeoRect.ipynb) ]
 - FRAIG (Functionally Reduced And-Inverter Graph) [ [code](https://github.com/vectominist/FRAIG) ]
 <!--  ![GitHub stars](https://img.shields.io/github/stars/vectominist/End-to-end-ASR-Pytorch?style=social&label=Star&maxAge=2592000) -->
 
