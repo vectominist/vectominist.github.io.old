@@ -68,4 +68,5 @@ Before joining MIT,-->
 
 # Extracurricular Activities
 
-- NTU Ballon Design Club [ [page](https://www.facebook.com/NTUBalloon) ]
+- NTU Ballon Design Club (Lecturer) [ [page](https://www.facebook.com/NTUBalloon) ]
+- The Republic of China Army (Rifleman, completed obligatory military service)
