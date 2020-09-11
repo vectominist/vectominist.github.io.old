@@ -59,12 +59,13 @@ Before joining MIT,-->
 
 # Projects
 
-- Open Sourced End-to-end Speech Recognition [ [code](https://github.com/vectominist/End-to-end-ASR-Pytorch) ]
+- Open Sourced End-to-end Speech Recognition [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ![GitHub stars](https://img.shields.io/github/stars/Alexander-H-Liu/End-to-end-ASR-Pytorch?style=social&label=Star&maxAge=2592000) ]
+- Course Map Visualization [ [code](https://github.com/vectominist/Course-Map-Visualization) ]
 - Routing with Cell Movement [ [code](https://github.com/w4n9r3ntru3/prime) ]
 - Are We Attracted to People Who Look Like Us? (image morphing) [ [code](https://github.com/vectominist/Face-Image-Morphing) ]
 - Deep Learning-Based Image Geometric Rectification [ [demo](https://github.com/vectominist/GeoRect-Demo/blob/master/Demo_GeoRect.ipynb) ]
 - FRAIG (Functionally Reduced And-Inverter Graph) [ [code](https://github.com/vectominist/FRAIG) ]
-<!--  ![GitHub stars](https://img.shields.io/github/stars/vectominist/End-to-end-ASR-Pytorch?style=social&label=Star&maxAge=2592000) -->
+ 
 
 # Extracurricular Activities
 
