@@ -15,7 +15,7 @@ Hi! I'm Heng-Jui Chang, an undergraduate researcher who majored in Electrical En
 I am a member of the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
 My research interest is in the area of machine learning and speech processing.
 I am currently working on whispered speech recognition and lifelong learning of end-to-end automatic speech recognition (E2E ASR).
-Besides research, I have received 4 Dean's List Awards and ranked 5/261 (top 2%) of the class.
+Besides research, I have received 4 Dean's List Awards and ranked 6/261 (top 2%) of the class.
 
 <!--- a Ph.D. student in Computer Science at MIT advised by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
 Currently, my research interest focus on  
