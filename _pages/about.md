@@ -11,9 +11,9 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Heng-Jui Chang, an undergraduate researcher who majored in Electrical Engineering (EE) at National Taiwan University (NTU).
+Hi! I'm Heng-Jui Chang, an undergraduate researcher majored in Electrical Engineering (EE) at National Taiwan University (NTU).
 I am a member of the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
-My research interest is in the area of machine learning and speech processing.
+My research interest is in the area of machine learning and spoken language processing.
 I am currently working on whispered speech recognition and lifelong learning of end-to-end automatic speech recognition (E2E ASR).
 Besides research, I have received 4 Dean's List Awards and ranked 6/261 (top 2%) of the class.
 
@@ -71,3 +71,4 @@ Before joining MIT,-->
 
 - NTU Ballon Design Club (Lecturer) [ [page](https://www.facebook.com/NTUBalloon) ]
 - The Republic of China Army (Rifleman, completed obligatory military service)
+- LINE Sticker Creator [ [LINE Store](https://store.line.me/stickershop/author/102277) ]
