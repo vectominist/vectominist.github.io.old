@@ -30,8 +30,8 @@ Before joining MIT,-->
 
 - **End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Pseudo Whisper Pre-training**<br/>
     <u>Heng-Jui Chang</u>, Alexander H. Liu, Hung-yi Lee, Lin-shan Lee<br/>
-    *Accepted to the IEEE Spoken Language Technology Workshop (SLT) 2021*
-<!--     [ [pdf](https://arxiv.org/abs/2005.01972) ] -->
+    *Accepted to the IEEE Spoken Language Technology Workshop (SLT) 2021*<br/>
+    [ [pdf](https://arxiv.org/abs/2005.01972) ]
 
 - **Towards Lifelong Learning of End-to-end ASR**<br/>
     <u>Heng-Jui Chang</u>, Hung-yi Lee, Lin-shan Lee<br/>
@@ -55,7 +55,7 @@ Before joining MIT,-->
 
 # Honors
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Irving T. Ho Memorial Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EE, 2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Irving T. Ho Memorial Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS, 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Dean's List Awards (Fall’17, Spring’19, Fall’19, Spring’20)</span> <span style="flex:  0 0 auto"><i>NTU EE, 2017-2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">7th place of Final Project of Data Stucture and Programming (125 attendees)</span> <span style="flex:  0 0 auto"><i>NTU EE, 2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">MakeNTU Hackathon, Enterprise Award</span> <span style="flex:  0 0 auto"><i>NTU EE, 2018</i></span></p>
@@ -63,12 +63,12 @@ Before joining MIT,-->
 # Projects
 
 - Open Sourced End-to-end Speech Recognition [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ![GitHub stars](https://img.shields.io/github/stars/Alexander-H-Liu/End-to-end-ASR-Pytorch?style=social&label=Star&maxAge=2592000) ]
-- Course Map Visualization [ [code](https://github.com/vectominist/Course-Map-Visualization) ]
-- Routing with Cell Movement [ [code](https://github.com/w4n9r3ntru3/prime) ]
+<!-- - Course Map Visualization [ [code](https://github.com/vectominist/Course-Map-Visualization) ] -->
+<!-- - Routing with Cell Movement [ [code](https://github.com/w4n9r3ntru3/prime) ] -->
 - Are We Attracted to People Who Look Like Us? (image morphing) [ [code](https://github.com/vectominist/Face-Image-Morphing) ]
 - Deep Learning-Based Image Geometric Rectification [ [demo](https://github.com/vectominist/GeoRect-Demo/blob/master/Demo_GeoRect.ipynb) ]
 - FRAIG (Functionally Reduced And-Inverter Graph) [ [code](https://github.com/vectominist/FRAIG) ]
- 
+
 
 # Extracurricular Activities
 
