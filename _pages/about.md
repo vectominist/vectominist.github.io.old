@@ -11,10 +11,10 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Heng-Jui Chang, an undergraduate researcher majored in Electrical Engineering (EE) at National Taiwan University (NTU).
+Hi! I'm Heng-Jui Chang, an undergraduate researcher who majors in Electrical Engineering (EE) at National Taiwan University (NTU).
 I am a member of the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
-My research interest is in the area of machine learning and spoken language processing.
-I am currently working on whispered speech recognition and lifelong learning of end-to-end automatic speech recognition (E2E ASR).
+My research interest is in machine learning and spoken language processing.
+I am currently working on end-to-end automatic speech recognition and self-supervised speech representation learning.
 Besides research, I have received 4 Dean's List Awards and ranked 6/261 (top 2%) of the class.
 
 <!--- a Ph.D. student in Computer Science at MIT advised by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
@@ -30,11 +30,11 @@ Before joining MIT,-->
 
 - **End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Pseudo Whisper Pre-training**<br/>
     <u>Heng-Jui Chang</u>, Alexander H. Liu, Hung-yi Lee, Lin-shan Lee<br/>
-    *Accepted to the IEEE Spoken Language Technology Workshop (SLT) 2021*<br/>
+    *Accepted to IEEE Spoken Language Technology Workshop (SLT) 2021*<br/>
     [ [pdf](https://arxiv.org/abs/2005.01972) ]
 
-- **Towards Lifelong Learning of End-to-end ASR**<br/>
-    <u>Heng-Jui Chang</u>, Hung-yi Lee, Lin-shan Lee<br/>
+<!-- - **Towards Lifelong Learning of End-to-end ASR**<br/>
+    <u>Heng-Jui Chang</u>, Hung-yi Lee, Lin-shan Lee<br/> -->
 <!--     *under review* -->
 
 
@@ -42,7 +42,7 @@ Before joining MIT,-->
 
 # Teaching
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_LA20.html">Linear Algebra</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Fall 2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://cool.ntu.edu.tw/courses/3789">Linear Algebra</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Fall 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html">Deep Learning for Human Language Processing Special Project</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Summer 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/SS2020Spring/">Signals and Systems</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Spring 2020</i></span></p>
 
