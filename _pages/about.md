@@ -43,7 +43,7 @@ Before joining MIT,-->
 # Teaching
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://cool.ntu.edu.tw/courses/3789">Linear Algebra</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Fall 2020</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html">Deep Learning for Human Language Processing Special Project</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Summer 2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html">Deep Learning for Human Language Processing Special Project</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Summer & Fall 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/SS2020Spring/">Signals and Systems</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Spring 2020</i></span></p>
 
 <!-- 
