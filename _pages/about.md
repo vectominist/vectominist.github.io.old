@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<center><b><I>Speech Processing and Balloon Arts Enthusiast</I></b></center>
+<!-- <center><b><I>Speech Processing and Balloon Arts Enthusiast</I></b></center> -->
 
 # About Me
 
