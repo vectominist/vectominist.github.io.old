@@ -8,20 +8,23 @@ redirect_from:
   - /about.html
 ---
 
+<center><b><I>Speech Processing and Balloon Arts Enthusiast</I></b></center>
 
 # About Me
 
 Hi! I'm Heng-Jui Chang, an undergraduate researcher who majors in Electrical Engineering (EE) at National Taiwan University (NTU).
 I am a member of the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
-My research interest is in machine learning and spoken language processing.
+My research interest is in machine learning and speech processing.
 I am currently working on end-to-end automatic speech recognition and self-supervised speech representation learning.
-Besides research, I have received 4 Dean's List Awards and ranked 6/261 (top 2%) of the class.
+Moreover, I have received 4 Dean's List Awards and ranked 6/261 (top 2%) of the class.
+Besides research, I love balloon arts and music!
+
 
 <!--- a Ph.D. student in Computer Science at MIT advised by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
 Currently, my research interest focus on  
 Before joining MIT,-->
 
-[Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects)
+[Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Projects](#projects)
 <!-- 
 / [Talks](#Talks) / [CV](files/cv.pdf)
 -->
@@ -72,6 +75,6 @@ Before joining MIT,-->
 
 # Extracurricular Activities
 
-- NTU Ballon Design Club (Lecturer) [ [page](https://www.facebook.com/NTUBalloon) ]
+- NTU Ballon Design Club (Lecturer) [ [page](https://www.facebook.com/NTUBalloon) | [photo](https://drive.google.com/file/d/1kmhwOrM0hmQkuuc4__ubEmk4xThX-iUh/view?usp=sharing) ]
 - The Republic of China Army (Rifleman, completed obligatory military service)
 - LINE Sticker Creator [ [LINE Store](https://store.line.me/stickershop/author/102277) ]
