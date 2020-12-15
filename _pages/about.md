@@ -17,7 +17,7 @@ I am a member of the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) s
 My research interest is in machine learning and speech processing.
 I am currently working on end-to-end automatic speech recognition and self-supervised speech representation learning.
 Moreover, I have received 4 Dean's List Awards and ranked 6/261 (top 2%) of the class.
-Besides research, I love balloon arts and music!
+Besides research, I love balloon arts, music, and photography!
 
 
 <!--- a Ph.D. student in Computer Science at MIT advised by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
