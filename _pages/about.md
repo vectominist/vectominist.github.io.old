@@ -12,11 +12,11 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Heng-Jui Chang, an undergraduate researcher who majors in Electrical Engineering (EE) at National Taiwan University (NTU).
-I am a member of the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
-My research interest is in machine learning and speech processing.
+Hi! I'm Heng-Jui Chang, an undergraduate senior studying Electrical Engineering at National Taiwan University (NTU).
+I am an undergrad researcher at the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
+My research interest is in machine learning for speech processing.
 I am currently working on end-to-end automatic speech recognition and self-supervised speech representation learning.
-Moreover, I have received 4 Dean's List Awards and ranked 6/261 (top 2%) of the class.
+Moreover, I have received 4 Dean's List Awards and Irving T. Ho Memorial Scholarship at NTUEE.
 Besides research, I love balloon arts, music, and photography!
 
 
@@ -24,7 +24,7 @@ Besides research, I love balloon arts, music, and photography!
 Currently, my research interest focus on  
 Before joining MIT,-->
 
-[Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Projects](#projects)
+[Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Projects](#projects) / [CV](https://vectominist.github.io/files/CV.pdf)
 <!-- 
 / [Talks](#Talks) / [CV](files/cv.pdf)
 -->
