@@ -15,8 +15,8 @@ redirect_from:
 Hi! I'm Heng-Jui Chang, an undergraduate senior studying Electrical Engineering at National Taiwan University (NTU).
 I am an undergrad researcher at the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
 My research interest is in machine learning for speech processing.
-I am currently working on end-to-end automatic speech recognition and self-supervised speech representation learning.
-Moreover, I have received 4 Dean's List Awards and Irving T. Ho Memorial Scholarship at NTUEE.
+I am currently working on lifelong learning of end-to-end automatic speech recognition and self-supervised speech representation learning.
+Moreover, I received 4 Dean's List Awards and Irving T. Ho Memorial Scholarship at NTUEE.
 Besides research, I love balloon arts, music, and photography!
 
 
@@ -24,7 +24,7 @@ Besides research, I love balloon arts, music, and photography!
 Currently, my research interest focus on  
 Before joining MIT,-->
 
-[Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Projects](#projects) / [CV](https://vectominist.github.io/files/CV.pdf)
+[Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Projects](#projects) / [Activities](#activities) / [CV](https://vectominist.github.io/files/CV.pdf)
 <!-- 
 / [Talks](#Talks) / [CV](files/cv.pdf)
 -->
@@ -45,6 +45,7 @@ Before joining MIT,-->
 
 # Teaching
 
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html">Machine Learning</a></span> <span style="flex:  0 0 auto"><i>NTU, Spring 2021</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://cool.ntu.edu.tw/courses/3789">Linear Algebra</a></span> <span style="flex:  0 0 auto"><i>NTU, Fall 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html">Deep Learning for Human Language Processing Project</a></span> <span style="flex:  0 0 auto"><i>NTU, Summer & Fall 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/SS2020Spring/">Signals and Systems</a></span> <span style="flex:  0 0 auto"><i>NTU, Spring 2020</i></span></p>
@@ -73,7 +74,7 @@ Before joining MIT,-->
 - FRAIG (Functionally Reduced And-Inverter Graph) [ [code](https://github.com/vectominist/FRAIG) ]
 
 
-# Extracurricular Activities
+# Activities
 
 - NTU Ballon Design Club (Lecturer)
   [ [page](https://www.facebook.com/NTUBalloon) | [photo](https://drive.google.com/file/d/1kmhwOrM0hmQkuuc4__ubEmk4xThX-iUh/view?usp=sharing) ]
