@@ -33,14 +33,12 @@ Before joining MIT,-->
 
 - **End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Pseudo Whisper Pre-training**<br/>
     <u>Heng-Jui Chang</u>, Alexander H. Liu, Hung-yi Lee, Lin-shan Lee<br/>
-    *Accepted to IEEE Spoken Language Technology Workshop (SLT) 2021*<br/>
+    *2021 IEEE Spoken Language Technology Workshop (SLT)*<br/>
     [ [pdf](https://arxiv.org/abs/2005.01972) ]
 
 <!-- - **Towards Lifelong Learning of End-to-end ASR**<br/>
     <u>Heng-Jui Chang</u>, Hung-yi Lee, Lin-shan Lee<br/> -->
 <!--     *under review* -->
-
-
 
 
 # Teaching
@@ -67,8 +65,7 @@ Before joining MIT,-->
 # Projects
 
 - Open Sourced End-to-end Speech Recognition [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ![GitHub stars](https://img.shields.io/github/stars/Alexander-H-Liu/End-to-end-ASR-Pytorch?style=social&label=Star&maxAge=2592000) ]
-<!-- - Course Map Visualization [ [code](https://github.com/vectominist/Course-Map-Visualization) ] -->
-<!-- - Routing with Cell Movement [ [code](https://github.com/w4n9r3ntru3/prime) ] -->
+- Course Map Visualization [ [code](https://github.com/vectominist/Course-Map-Visualization) ]
 - Are We Attracted to People Who Look Like Us? (image morphing) [ [code](https://github.com/vectominist/Face-Image-Morphing) ]
 - Deep Learning-Based Image Geometric Rectification [ [demo](https://github.com/vectominist/GeoRect-Demo/blob/master/Demo_GeoRect.ipynb) ]
 - FRAIG (Functionally Reduced And-Inverter Graph) [ [code](https://github.com/vectominist/FRAIG) ]
