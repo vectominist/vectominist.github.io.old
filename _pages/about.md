@@ -15,7 +15,7 @@ redirect_from:
 Hi! I'm Heng-Jui Chang, an undergraduate senior studying Electrical Engineering at National Taiwan University (NTU).
 I am an undergrad researcher at the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
 My research interest is in machine learning for speech processing.
-I am currently working on lifelong learning of end-to-end automatic speech recognition and self-supervised speech representation learning.
+I am currently working on lifelong learning of end-to-end automatic speech recognition, non-autoregressive sequence modeling, and self-supervised speech representation learning.
 Moreover, I received 4 Dean's List Awards and Irving T. Ho Memorial Scholarship at NTUEE.
 Besides research, I love balloon arts, music, and photography!
 
@@ -31,19 +31,20 @@ Before joining MIT,-->
 
 # Publications
 
+- **Towards Lifelong Learning of End-to-end ASR**<br/>
+    <u>Heng-Jui Chang</u>, Hung-yi Lee, Lin-shan Lee<br/>
+    *under review*
+
 - **End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Pseudo Whisper Pre-training**<br/>
     <u>Heng-Jui Chang</u>, Alexander H. Liu, Hung-yi Lee, Lin-shan Lee<br/>
     *2021 IEEE Spoken Language Technology Workshop (SLT)*<br/>
     [ [pdf](https://arxiv.org/abs/2005.01972) ]
 
-<!-- - **Towards Lifelong Learning of End-to-end ASR**<br/>
-    <u>Heng-Jui Chang</u>, Hung-yi Lee, Lin-shan Lee<br/> -->
-<!--     *under review* -->
-
 
 # Teaching
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html">Machine Learning</a></span> <span style="flex:  0 0 auto"><i>NTU, Spring 2021</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html">Machine Learning (English Class)</a></span> <span style="flex:  0 0 auto"><i>NTU, Spring 2021</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html">Machine Learning (Mandarin Class)</a></span> <span style="flex:  0 0 auto"><i>NTU, Spring 2021</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://cool.ntu.edu.tw/courses/3789">Linear Algebra</a></span> <span style="flex:  0 0 auto"><i>NTU, Fall 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html">Deep Learning for Human Language Processing Project</a></span> <span style="flex:  0 0 auto"><i>NTU, Summer & Fall 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/SS2020Spring/">Signals and Systems</a></span> <span style="flex:  0 0 auto"><i>NTU, Spring 2020</i></span></p>
@@ -57,7 +58,7 @@ Before joining MIT,-->
 
 # Honors
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Irving T. Ho Memorial Scholarship</span> <span style="flex:  0 0 auto"><i>NTU, 2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="https://irvingthofoundation.github.io/ho-fellows.htm">Irving T. Ho Memorial Scholarship</a></span> <span style="flex:  0 0 auto"><i>NTU, 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Dean's List Awards (Fall’17, Spring’19, Fall’19, Spring’20)</span> <span style="flex:  0 0 auto"><i>NTU, 2017-2020</i></span></p>
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">7th place of Final Project of Data Stucture and Programming (125 attendees)</span> <span style="flex:  0 0 auto"><i>NTU EE, 2019</i></span></p> -->
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">MakeNTU Hackathon, Enterprise Award</span> <span style="flex:  0 0 auto"><i>NTU EE, 2018</i></span></p> -->
