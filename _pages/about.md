@@ -78,3 +78,6 @@ Before joining MIT,-->
   [ [page](https://www.facebook.com/NTUBalloon) | [photo](https://drive.google.com/file/d/1kmhwOrM0hmQkuuc4__ubEmk4xThX-iUh/view?usp=sharing) ]
 - The Republic of China Army (Rifleman, completed obligatory military service)
 - LINE Sticker Creator [ [LINE Store](https://store.line.me/stickershop/author/102277) ]
+
+
+<a href="https://info.flagcounter.com/DsYv"><img src="https://s11.flagcounter.com/count2/DsYv/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
