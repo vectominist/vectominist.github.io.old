@@ -30,6 +30,11 @@ Before joining MIT,-->
 -->
 
 # Publications
+$^\dagger$ indicates equal contribution.
+
+- **Non-autoregressive Word Embedding-regularized Low-resourced Code-Switching Speech Recognition**<br/>
+    Shun-Po Chuang$^\dagger$, <u>Heng-Jui Chang</u>$^\dagger$, Hung-yi Lee<br/>
+    *under review*
 
 - **Towards Lifelong Learning of End-to-end ASR**<br/>
     <u>Heng-Jui Chang</u>, Hung-yi Lee, Lin-shan Lee<br/>
