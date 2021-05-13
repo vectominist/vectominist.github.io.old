@@ -14,9 +14,8 @@ redirect_from:
 
 Hi! I'm Heng-Jui Chang, an undergraduate senior studying Electrical Engineering at National Taiwan University (NTU).
 I am an undergrad researcher at the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~hylee/index.html).
-My research interest is in machine learning for speech processing.
-I am currently working on end-to-end automatic speech recognition, non-autoregressive sequence modeling, and self-supervised speech representation learning.
-Moreover, I received 4 Dean's List Awards and Irving T. Ho Memorial Scholarship at NTUEE.
+My research interest is in **machine learning** and **speech processing**.
+More specifically, I work on automatic speech recognition (ASR) and self-supervised speech representation learning.
 Besides research, I love balloon arts, music, and photography!
 
 
@@ -50,8 +49,7 @@ $^\dagger$ indicates equal contribution.
 
 # Teaching
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html">Machine Learning (English Class)</a></span> <span style="flex:  0 0 auto"><i>NTU, Spring 2021</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html">Machine Learning (Mandarin Class)</a></span> <span style="flex:  0 0 auto"><i>NTU, Spring 2021</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html">Machine Learning (English & Mandarin Class)</a></span> <span style="flex:  0 0 auto"><i>NTU, Spring 2021</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://cool.ntu.edu.tw/courses/3789">Linear Algebra</a></span> <span style="flex:  0 0 auto"><i>NTU, Fall 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html">Deep Learning for Human Language Processing Project</a></span> <span style="flex:  0 0 auto"><i>NTU, Summer & Fall 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/SS2020Spring/">Signals and Systems</a></span> <span style="flex:  0 0 auto"><i>NTU, Spring 2020</i></span></p>
@@ -66,7 +64,7 @@ $^\dagger$ indicates equal contribution.
 # Honors
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="https://irvingthofoundation.github.io/ho-fellows.htm">Irving T. Ho Memorial Scholarship</a></span> <span style="flex:  0 0 auto"><i>NTU, 2020</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Dean's List Awards (Fall’17, Spring’19, Fall’19, Spring’20)</span> <span style="flex:  0 0 auto"><i>NTU, 2017-2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Dean's List Awards x 4</span> <span style="flex:  0 0 auto"><i>NTU, 2017-2020</i></span></p>
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">7th place of Final Project of Data Stucture and Programming (125 attendees)</span> <span style="flex:  0 0 auto"><i>NTU EE, 2019</i></span></p> -->
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">MakeNTU Hackathon, Enterprise Award</span> <span style="flex:  0 0 auto"><i>NTU EE, 2018</i></span></p> -->
 
