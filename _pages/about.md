@@ -31,20 +31,20 @@ Before joining MIT,-->
 # Publications
 $^\dagger$ indicates equal contribution.
 
-- **Non-autoregressive Mandarin-English Code-switching Speech Recognition with Pinyin Mask-CTC and Word Embedding Regularization**<br/>
-    Shun-Po Chuang$^\dagger$, <u>Heng-Jui Chang</u>$^\dagger$, Sung-Feng Huang, Hung-yi Lee<br/>
-    *under review*<br/>
-    [ [arXiv](https://arxiv.org/abs/2104.02258) ]
-
 - **Towards Lifelong Learning of End-to-end ASR**<br/>
     <u>Heng-Jui Chang</u>, Hung-yi Lee, Lin-shan Lee<br/>
-    *under review*<br/>
+    *INTERSPEECH 2021 (to appear)*<br/>
     [ [arXiv](https://arxiv.org/abs/2104.01616) ]
 
 - **End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Pseudo Whisper Pre-training**<br/>
     <u>Heng-Jui Chang</u>, Alexander H. Liu, Hung-yi Lee, Lin-shan Lee<br/>
     *2021 IEEE Spoken Language Technology Workshop (SLT)*<br/>
     [ [arXiv](https://arxiv.org/abs/2005.01972) | [IEEE Xplore](https://ieeexplore.ieee.org/document/9383595) ]
+
+- **Non-autoregressive Mandarin-English Code-switching Speech Recognition with Pinyin Mask-CTC and Word Embedding Regularization**<br/>
+    Shun-Po Chuang$^\dagger$, <u>Heng-Jui Chang</u>$^\dagger$, Sung-Feng Huang, Hung-yi Lee<br/>
+    *under review*<br/>
+    [ [arXiv](https://arxiv.org/abs/2104.02258) ]
 
 
 # Teaching
