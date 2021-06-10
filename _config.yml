@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Heng-Jui Chang<br/>張恆瑞 (Harry)"
+  name             : "Heng-Jui Chang"
   avatar           : "profile.jpg"
   bio              : "Undergrad Researcher<br/>National Taiwan University"
   location         : "Taipei, Taiwan"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "HJChang1017"
   vine             :
   weibo            :
   xing             :

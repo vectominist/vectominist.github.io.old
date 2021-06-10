@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Heng-Jui Chang, an undergraduate senior studying Electrical Engineering at National Taiwan University (NTU).
+Hi! I'm Heng-Jui Chang (張恆瑞), an undergraduate senior studying Electrical Engineering at National Taiwan University (NTU).
 I am an undergrad researcher at the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~hylee/index.html).
 My research interest is in **machine learning** and **speech processing**.
 More specifically, I work on automatic speech recognition (ASR) and self-supervised speech representation learning.
@@ -35,12 +35,10 @@ $^\dagger$ indicates equal contribution.
     <u>Heng-Jui Chang</u>, Hung-yi Lee, Lin-shan Lee<br/>
     *INTERSPEECH 2021 (to appear)*<br/>
     [ [arXiv](https://arxiv.org/abs/2104.01616) ]
-
 - **End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Pseudo Whisper Pre-training**<br/>
     <u>Heng-Jui Chang</u>, Alexander H. Liu, Hung-yi Lee, Lin-shan Lee<br/>
     *2021 IEEE Spoken Language Technology Workshop (SLT)*<br/>
     [ [arXiv](https://arxiv.org/abs/2005.01972) | [IEEE Xplore](https://ieeexplore.ieee.org/document/9383595) ]
-
 - **Non-autoregressive Mandarin-English Code-switching Speech Recognition with Pinyin Mask-CTC and Word Embedding Regularization**<br/>
     Shun-Po Chuang$^\dagger$, <u>Heng-Jui Chang</u>$^\dagger$, Sung-Feng Huang, Hung-yi Lee<br/>
     *under review*<br/>
@@ -85,4 +83,4 @@ $^\dagger$ indicates equal contribution.
 - LINE Sticker Creator [ [LINE Store](https://store.line.me/stickershop/author/102277) ]
 
 
-<a href="https://info.flagcounter.com/DsYv"><img src="https://s11.flagcounter.com/count2/DsYv/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<!-- <a href="https://info.flagcounter.com/DsYv"><img src="https://s11.flagcounter.com/count2/DsYv/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
