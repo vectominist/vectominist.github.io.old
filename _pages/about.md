@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <center><b><I>Speech Processing and Balloon Arts Enthusiast</I></b></center> -->
+
 
 # About Me
 
@@ -16,14 +16,14 @@ Hi! I'm Heng-Jui Chang (張恆瑞), an undergraduate senior studying Electrical 
 I am an undergrad researcher at the [NTU Speech Processing Lab](http://speech.ee.ntu.edu.tw/) supervised by Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~hylee/index.html).
 My research interest is in **machine learning** and **speech processing**.
 More specifically, I work on automatic speech recognition (ASR) and self-supervised speech representation learning.
-Besides research, I love balloon arts, music, and photography!
+I'm seeking opportunities to study for a Ph.D. starting from 2022 fall.
 
 
 <!--- a Ph.D. student in Computer Science at MIT advised by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
 Currently, my research interest focus on  
 Before joining MIT,-->
 
-[Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Projects](#projects) / [Activities](#activities) / [CV](https://vectominist.github.io/files/CV.pdf)
+[Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Projects](#projects) / [Activities](#activities) / <a href="https://drive.google.com/file/d/1KGgbZYNffuEzoOBVWRp3_K0dpJ6u5mTp/view?usp=sharing" target="_blank" rel="noopener">CV</a>
 <!-- 
 / [Talks](#Talks) / [CV](files/cv.pdf)
 -->
@@ -82,5 +82,3 @@ $^\dagger$ indicates equal contribution.
 - The Republic of China Army (Rifleman, completed obligatory military service)
 - LINE Sticker Creator [ [LINE Store](https://store.line.me/stickershop/author/102277) ]
 
-
-<a href="https://info.flagcounter.com/DsYv"><img src="https://s11.flagcounter.com/count2/DsYv/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
