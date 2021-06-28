@@ -40,7 +40,7 @@ $^\dagger$ indicates equal contribution.
     <td style="font-size: 18px; line-height: 1.5em;">
     <strong>Towards Lifelong Learning of End-to-end ASR</strong><br/>
     <u>Heng-Jui Chang</u>, Hung-yi Lee, Lin-shan Lee.<br/>
-    <i>Interspeech 2021</i>
+    <i>Interspeech 2021</i><br/>
     [ <a href="https://arxiv.org/abs/2104.01616" target="_blank" rel="noopener">arXiv</a> ]
     </td>
 </tr>
@@ -49,7 +49,7 @@ $^\dagger$ indicates equal contribution.
     <td style="font-size: 18px; line-height: 1.5em;">
     <strong>End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Pseudo Whisper Pre-training</strong><br/>
     <u>Heng-Jui Chang</u>, Alexander H. Liu, Hung-yi Lee, Lin-shan Lee.<br/>
-    <i>2021 IEEE Spoken Language Technology Workshop (SLT)</i>
+    <i>Spoken Language Technology Workshop (SLT) 2021</i><br/>
     [ <a href="https://arxiv.org/abs/2005.01972" target="_blank" rel="noopener">arXiv</a> | <a href="https://ieeexplore.ieee.org/document/9383595" target="_blank" rel="noopener">IEEE Xplore</a> ]</td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ $^\dagger$ indicates equal contribution.
     <td style="font-size: 18px; line-height: 1.5em;">
     <strong>Non-autoregressive Mandarin-English Code-switching Speech Recognition with Pinyin Mask-CTC and Word Embedding Regularization</strong><br/>
     Shun-Po Chuang$^\dagger$, <u>Heng-Jui Chang</u>$^\dagger$, Sung-Feng Huang, Hung-yi Lee.<br/>
-    <i>Under review</i>
+    <i>Under review</i><br/>
     [ <a href="https://arxiv.org/abs/2104.02258" target="_blank" rel="noopener">arXiv</a> ]</td>
 </tr>
 </table>
