@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Heng-Jui Chang"
   avatar           : "profile.jpg"
-  bio              : "Undergrad Researcher<br/>National Taiwan University"
+  bio              : "Research Assistant<br/>National Taiwan University"
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Kzn0Ks8AAAAJ&hl=en"
   email            : "b06901020@ntu.edu.tw"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Heng-Jui-Chang-2"
   uri              :
   bitbucket        :
   codepen          :
