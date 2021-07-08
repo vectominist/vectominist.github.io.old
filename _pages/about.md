@@ -29,7 +29,14 @@ Before joining MIT,-->
 <!-- 
 / [Talks](#Talks) / [CV](files/cv.pdf)
 -->
-<br/>
+<!-- <br/> -->
+
+# News
+
+* (Jul 2021) I will attend <a href="http://ai.ntu.edu.tw/mlss2021/" target="_blank" rel="noopener">Machine Learning Summer School</a> this summer and present in a poster session.
+* (Jun 2021) I will attend <a href="https://www.interspeech2021.org/" target="_blank" rel="noopener">Interspeech 2021</a> virtually to present my work about lifelong learning.
+
+<!-- <br/> -->
 
 # Publications
 $^\dagger$ indicates equal contribution.
@@ -50,7 +57,8 @@ $^\dagger$ indicates equal contribution.
     <strong>End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Pseudo Whisper Pre-training</strong><br/>
     <u>Heng-Jui Chang</u>, Alexander H. Liu, Hung-yi Lee, Lin-shan Lee.<br/>
     <i>Spoken Language Technology Workshop (SLT) 2021</i><br/>
-    [ <a href="https://arxiv.org/abs/2005.01972" target="_blank" rel="noopener">arXiv</a> | <a href="https://ieeexplore.ieee.org/document/9383595" target="_blank" rel="noopener">IEEE Xplore</a> ]</td>
+    [ <a href="https://arxiv.org/abs/2005.01972" target="_blank" rel="noopener">arXiv</a> | <a href="https://ieeexplore.ieee.org/document/9383595" target="_blank" rel="noopener">IEEE Xplore</a> | <a href="https://rc.signalprocessingsociety.org/workshops/slt-2021/SLT21VID027.html?source=IBP" target="_blank" rel="noopener">video</a> ]
+    </td>
 </tr>
 <tr>
     <td align="center"><img src="images/nar_cs_asr.png" alt="NARCSASR" width="90%"></td>
@@ -61,7 +69,7 @@ $^\dagger$ indicates equal contribution.
     [ <a href="https://arxiv.org/abs/2104.02258" target="_blank" rel="noopener">arXiv</a> ]</td>
 </tr>
 </table>
-<br/>
+<!-- <br/> -->
 
 <!-- - **Towards Lifelong Learning of End-to-end ASR**<br/>
     <u>Heng-Jui Chang</u>, Hung-yi Lee, Lin-shan Lee<br/>
@@ -135,7 +143,7 @@ $^\dagger$ indicates equal contribution.
     </td>
 </tr>
 </table>
-<br/>
+<!-- <br/> -->
 
 <!-- - Open-source End-to-end Speech Recognition [ <a href="https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch" target="_blank" rel="noopener">code</a>
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Alexander-H-Liu/End-to-end-ASR-Pytorch?style=social"> ]
@@ -148,13 +156,14 @@ $^\dagger$ indicates equal contribution.
 # Honors
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Interspeech 2021 Student Travel Grant</span> <span style="flex:  0 0 auto"><i>ISCA, 2021</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Dean's List Awards x 5</span> <span style="flex:  0 0 auto"><i>NTU, 2017-2021</i></span></p>
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Honorable Mention, <a href="https://aidea-web.tw/topic/3665319f-cd5d-4f92-8902-00ebbd8e871d" target="_blank" rel="noopener">Medical Dialogue Analysis Competition</a></span> <span style="flex:  0 0 auto"><i>AI CUP, 2021</i></span></p> -->
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="https://irvingthofoundation.github.io/ho-fellows.htm" target="_blank" rel="noopener">Irving T. Ho Memorial Scholarship</a></span> <span style="flex:  0 0 auto"><i>NTU, 2020</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Dean's List Awards x 4</span> <span style="flex:  0 0 auto"><i>NTU, 2017-2020</i></span></p>
+
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">7th place of Final Project of Data Stucture and Programming (125 attendees)</span> <span style="flex:  0 0 auto"><i>NTU EE, 2019</i></span></p> -->
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">MakeNTU Hackathon, Enterprise Award</span> <span style="flex:  0 0 auto"><i>NTU EE, 2018</i></span></p> -->
 
-<br/>
+<!-- <br/> -->
 
 
 # Teaching
@@ -165,7 +174,7 @@ $^\dagger$ indicates equal contribution.
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html" target="_blank" rel="noopener">Deep Learning for Human Language Processing Project</a></span> <span style="flex:  0 0 auto"><i>Summer 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="http://speech.ee.ntu.edu.tw/SS2020Spring/" target="_blank" rel="noopener">Signals and Systems</a></span> <span style="flex:  0 0 auto"><i>Spring 2020</i></span></p>
 
-<br/>
+<!-- <br/> -->
 
 <!-- 
 # Talks
