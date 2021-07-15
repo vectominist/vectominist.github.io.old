@@ -9,12 +9,11 @@ redirect_from:
 ---
 
 
-
 # About Me
 
 Hi! I'm Heng-Jui Chang (張恆瑞), a research assistant at the National Taiwan University (NTU) <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Speech Processing and Machine Learning Lab</a> supervised by Prof. <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Hung-yi Lee</a>.
-My research interest is in **machine learning** and **speech processing**.
-More specifically, I work on **automatic speech recognition (ASR)** and **self-supervised speech representation learning**.
+My research interest is in machine learning and speech processing.
+I am currently working on automatic speech recognition (ASR) and self-supervised speech representation learning.
 *I'm seeking opportunities to study for a Ph.D. starting from 2022 fall.*
 
 I received my B.S. degree in Electrical Engineering from NTU in Jun 2021.
@@ -29,14 +28,13 @@ Before joining MIT,-->
 <!-- 
 / [Talks](#Talks) / [CV](files/cv.pdf)
 -->
-<!-- <br/> -->
+
 
 # News
 
-* (Jul 2021) I will attend <a href="http://ai.ntu.edu.tw/mlss2021/" target="_blank" rel="noopener">Machine Learning Summer School</a> this summer and present in a poster session.
-* (Jun 2021) I will attend <a href="https://www.interspeech2021.org/" target="_blank" rel="noopener">Interspeech 2021</a> virtually to present my work about lifelong learning.
+* (Jul 2021) I will attend <a href="http://ai.ntu.edu.tw/mlss2021/" target="_blank" rel="noopener">Machine Learning Summer School</a> this summer and give poster presentation.
+* (Jun 2021) I will attend <a href="https://www.interspeech2021.org/" target="_blank" rel="noopener">Interspeech 2021</a> virtually to present my latest work.
 
-<!-- <br/> -->
 
 # Publications
 $^\dagger$ indicates equal contribution.
