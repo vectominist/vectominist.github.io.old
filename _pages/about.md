@@ -32,8 +32,8 @@ Before joining MIT,-->
 
 # News
 
-* (Jul 2021) I will attend <a href="http://ai.ntu.edu.tw/mlss2021/" target="_blank" rel="noopener">Machine Learning Summer School</a> this summer and give poster presentation.
-* (Jun 2021) I will attend <a href="https://www.interspeech2021.org/" target="_blank" rel="noopener">Interspeech 2021</a> virtually to present my latest work.
+* Sep 2021. Paper presenter @ <a href="https://www.interspeech2021.org/" target="_blank" rel="noopener">Interspeech 2021</a> (virtual).
+* Aug 2021. Standard program @ <a href="http://ai.ntu.edu.tw/mlss2021/" target="_blank" rel="noopener">Machine Learning Summer School</a> (w/ poster presentation).
 
 
 # Publications
@@ -46,7 +46,7 @@ $^\dagger$ indicates equal contribution.
     <strong>Towards Lifelong Learning of End-to-end ASR</strong><br/>
     <u>Heng-Jui Chang</u>, Hung-yi Lee, Lin-shan Lee.<br/>
     <i>Interspeech 2021</i><br/>
-    [ <a href="https://arxiv.org/abs/2104.01616" target="_blank" rel="noopener">arXiv</a> ]
+    [ <a href="https://arxiv.org/abs/2104.01616" target="_blank" rel="noopener">arXiv</a> | <a href="https://youtu.be/r09AjQ66VHo" target="_blank" rel="noopener">short video</a> | <a href="https://youtu.be/uLb3j1cEaX8" target="_blank" rel="noopener">long video</a> ]
     </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ $^\dagger$ indicates equal contribution.
 <tr>
     <td align="center"><img src="images/nar_cs_asr.png" alt="NARCSASR" width="90%"></td>
     <td style="font-size: 18px; line-height: 1.5em;">
-    <strong>Non-autoregressive Mandarin-English Code-switching Speech Recognition with Pinyin Mask-CTC and Word Embedding Regularization</strong><br/>
+    <strong>Non-autoregressive Mandarin-English Code-switching Speech Recognition</strong><br/>
     Shun-Po Chuang$^\dagger$, <u>Heng-Jui Chang</u>$^\dagger$, Sung-Feng Huang, Hung-yi Lee.<br/>
     <i>Under review</i><br/>
     [ <a href="https://arxiv.org/abs/2104.02258" target="_blank" rel="noopener">arXiv</a> ]</td>
@@ -155,7 +155,7 @@ $^\dagger$ indicates equal contribution.
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Interspeech 2021 Student Travel Grant</span> <span style="flex:  0 0 auto"><i>ISCA, 2021</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Dean's List Awards x 5</span> <span style="flex:  0 0 auto"><i>NTU, 2017-2021</i></span></p>
-<!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Honorable Mention, <a href="https://aidea-web.tw/topic/3665319f-cd5d-4f92-8902-00ebbd8e871d" target="_blank" rel="noopener">Medical Dialogue Analysis Competition</a></span> <span style="flex:  0 0 auto"><i>AI CUP, 2021</i></span></p> -->
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Honorable Mention, <a href="https://aidea-web.tw/topic/3665319f-cd5d-4f92-8902-00ebbd8e871d" target="_blank" rel="noopener">Medical Dialogue Analysis Competition</a></span> <span style="flex:  0 0 auto"><i>AI CUP, 2021</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="https://irvingthofoundation.github.io/ho-fellows.htm" target="_blank" rel="noopener">Irving T. Ho Memorial Scholarship</a></span> <span style="flex:  0 0 auto"><i>NTU, 2020</i></span></p>
 
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">7th place of Final Project of Data Stucture and Programming (125 attendees)</span> <span style="flex:  0 0 auto"><i>NTU EE, 2019</i></span></p> -->
